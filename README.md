@@ -4,7 +4,7 @@
 
 Je combine rigueur mathématique et modélisation statistique pour transformer les données financières en leviers décisionnels objectifs.
 
-🎯 **Recherche :** Stage de fin d'études de 6 mois en Data Science appliqué à la finance/Économie/marketing ou en Finance Quantitative | Début 2027 | Paris ou Bordeaux.
+🎯 **Recherche :** Stage de fin d'études (6 mois) en Data Science appliquée (Finance, Économie, Sciences Sociales, Décisionnel) ou en Finance Quantitative | Début 2027 | Paris ou Bordeaux.
 
 ---
 
@@ -18,7 +18,7 @@ Je combine rigueur mathématique et modélisation statistique pour transformer l
 ### Modélisation & Statistiques
 * **Machine Learning :** Régression (OLS, Lasso, Ridge, KNN), Classification (Logistique, Naïve Bayes), Clustering & Réduction de dimension (K-means, ACP).
 * **Économétrie & Séries Temporelles :** Modèles ARMA, MCE, Modélisation de la volatilité (ARCH/GARCH), Tests de racine unitaire (ADF, ZA).
-* **Finance Quantitative :** Calcul stochastique, Pricing d'options (Black-Scholes), MEDAF/CAPM, Certification AMF (Partie A : 90/100).
+* **Finance Quantitative :** Calcul stochastique, Pricing d'options (Black-Scholes), MEDAF/CAPM, Certification AMF.
 
 ---
 
