@@ -4,7 +4,7 @@
 
 Je combine rigueur mathématique et modélisation statistique pour transformer les données financières en leviers décisionnels objectifs.
 
-🎯 **Recherche :** Stage de fin d'études (6 mois) en Data Science appliquée (Finance, Économie, Sciences Sociales, Décisionnel) ou en Finance Quantitative | Début 2027 | Paris ou Bordeaux.
+🎯 **Recherche :** Stage de fin d'études de 6 mois en Data Science appliquée (Finance, Économie, Sciences Sociales, Décisionnel) ou en Finance Quantitative | Début 2027 | Paris ou Bordeaux.
 
 ---
 
