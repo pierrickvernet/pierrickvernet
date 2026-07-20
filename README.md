@@ -33,7 +33,7 @@
 | **Objectif** | **Stage de fin d'études** (6 mois) |
 | **Domaines** | Data Science appliquée (Finance, Économie, Sciences Sociales, Décisionnel) & Finance Quantitative |
 | **Période** | Début 2027 |
-| **Lieux ciblés** | Paris, Bordeaux ou Bretagne (Rennes, Vannes) |
+| **Lieux ciblés** | Paris, Bordeaux ou Bretagne (Rennes, Vannes, Lorient) |
 
 ---
 
