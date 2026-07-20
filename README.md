@@ -1,16 +1,39 @@
 <div align="center">
   <a href="https://master-iref.fr/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/a1124985-1e6f-4035-bc5a-2c6f0ba5222f" alt="Logo Master IREF" width="180" />
+    <img src="https://github.com/user-attachments/assets/a1124985-1e6f-4035-bc5a-2c6f0ba5222f" alt="Logo Master IREF" width="160" />
   </a>
+
   <h1>Pierrick Vernet</h1>
-  <p><i>Étudiant en Master IREF (Ingénierie des Risques Économiques et Financiers)</i></p>
+
+  <p><b>Master Mathématiques Appliquées et Statistiques (IREF) — Data Science & Economic Risk</b><br>
+  <i>Université de Bordeaux</i></p>
+
+  <p>
+    <a href="https://linkedin.com/in/votre-profil" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:votre.email@exemple.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
-**Étudiant en Master Mathématiques Appliquées et Statistiques (IREF) — Economic Risk & Data Science** à l'Université de Bordeaux.
+---
 
-Passionné par la modélisation statistique, je transforme les données en leviers décisionnels objectifs.
+### À propos
 
-**Recherche :** Stage de fin d'études de 6 mois en Data Science appliquée (Finance, Économie, Sciences Sociales, Décisionnel) ou en Finance Quantitative | Début 2027 | Sur Paris, Bordeaux ou en Bretagne.
+> Passionné par la modélisation statistique et l'économétrie, je transforme les données complexes en leviers décisionnels objectifs et exploitables.
+
+---
+
+### Recherche de Stage
+
+| PARAMÈTRE | DÉTAILS |
+|---|---|
+| **Objectif** | **Stage de fin d'études** (6 mois) |
+| **Domaines** | Data Science appliquée (Finance, Économie, Sciences Sociales, Décisionnel) & Finance Quantitative |
+| **Période** | Début 2027 |
+| **Lieux ciblés** | Paris, Bordeaux ou Bretagne (Rennes, Vannes) |
 
 ---
 
