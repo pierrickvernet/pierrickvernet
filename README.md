@@ -49,8 +49,3 @@
 * **Finance Quantitative :** Calcul stochastique, Pricing d'options (Black-Scholes), MEDAF/CAPM, Certification AMF.
 
 ---
-
-## Contact & Réseaux
-
-* **LinkedIn :** [/in/pierrick-vernet](https://www.linkedin.com/in/pierrick-vernet/)
-* **Email :** pierrickvernet@gmail.com
