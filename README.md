@@ -2,6 +2,8 @@
 
 **Étudiant en Master Mathématiques Appliquées et Statistiques (IREF) — Economic Risk & Data Science** à l'Université de Bordeaux.
 
+<img width="161" height="102" alt="Logo-iref-mas-red-600" src="https://github.com/user-attachments/assets/a1124985-1e6f-4035-bc5a-2c6f0ba5222f" />
+
 Passionné par la modélisation statistique, je transforme les données en leviers décisionnels objectifs.
 
 **Recherche :** Stage de fin d'études de 6 mois en Data Science appliquée (Finance, Économie, Sciences Sociales, Décisionnel) ou en Finance Quantitative | Début 2027 | Sur Paris, Bordeaux ou en Bretagne.
