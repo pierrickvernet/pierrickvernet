@@ -4,16 +4,15 @@
 
 Passionné par la modélisation statistique, je transforme les données en leviers décisionnels objectifs.
 
-🎯 **Recherche :** Stage de fin d'études de 6 mois en Data Science appliquée (Finance, Économie, Sciences Sociales, Décisionnel) ou en Finance Quantitative | Début 2027 | Sur Paris, Bordeaux ou en Bretagne.
+**Recherche :** Stage de fin d'études de 6 mois en Data Science appliquée (Finance, Économie, Sciences Sociales, Décisionnel) ou en Finance Quantitative | Début 2027 | Sur Paris, Bordeaux ou en Bretagne.
 
 ---
 
-## 🛠️ Compétences Techniques
+## Compétences Techniques
 
 ### Programmation & Environnements
 * **Langages :** Python, R, Excel VBA, SQL.
 * **Visualisation :** Power BI, Rapports et Dashboards interactifs (R, HTML).
-* **Outils :** Rédacteur de documents techniques sous LaTeX.
 
 ### Modélisation & Statistiques
 * **Machine Learning :** Régression (OLS, Lasso, Ridge, KNN), Classification (Logistique, Naïve Bayes), Clustering & Réduction de dimension (K-means, ACP).
@@ -22,7 +21,7 @@ Passionné par la modélisation statistique, je transforme les données en levie
 
 ---
 
-## 📨 Contact & Réseaux
+## Contact & Réseaux
 
 * **LinkedIn :** [/in/pierrick-vernet](https://www.linkedin.com/in/pierrick-vernet/)
 * **Email :** pierrickvernet@gmail.com
