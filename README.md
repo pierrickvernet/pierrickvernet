@@ -1,4 +1,10 @@
-# Pierrick Vernet    <img width="100" height="70" alt="Logo-iref-mas-red-600" src="https://github.com/user-attachments/assets/a1124985-1e6f-4035-bc5a-2c6f0ba5222f" />
+<div align="center">
+  <a href="https://master-iref.fr/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/a1124985-1e6f-4035-bc5a-2c6f0ba5222f" alt="Logo Master IREF" width="180" />
+  </a>
+  <h1>Pierrick Vernet</h1>
+  <p><i>Étudiant en Master IREF (Ingénierie des Risques Économiques et Financiers)</i></p>
+</div>
 
 **Étudiant en Master Mathématiques Appliquées et Statistiques (IREF) — Economic Risk & Data Science** à l'Université de Bordeaux.
 
