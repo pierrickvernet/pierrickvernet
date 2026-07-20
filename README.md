@@ -9,11 +9,11 @@
   <i>Université de Bordeaux</i></p>
 
   <p>
-    <a href="https://www.linkedin.com/in/pierrick-vernet/" target="_blank">https://drive.google.com/drive/u/1/folders/1CMqQ7KjPfUjub_MDaIOibgL5ky8qDE0d
+    <a href="https://www.linkedin.com/in/pierrick-vernet/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="" target="_blank">
-      <img src="https://drive.google.com/drive/u/1/folders/1CMqQ7KjPfUjub_MDaIOibgL5ky8qDE0d" alt="Mon CV" />
+    <a href="https://github.com/user-attachments/files/30200753/CV_Pierrick.Vernet.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/Mon_CV-4A154B?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Mon CV" />
     </a>
   </p>
 </div>
