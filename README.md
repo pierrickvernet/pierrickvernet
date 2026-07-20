@@ -5,7 +5,7 @@
 
   <h1>Pierrick Vernet</h1>
 
-  <p><b>Master Mathématiques Appliquées et Statistiques (IREF) — Data Science & Economic Risk</b><br>
+  <p><b>Master Mathématiques Appliquées et Statistiques (<a href="https://master-iref.fr/" target="_blank">IREF</a>) — Data Science & Economic Risk</b><br>
   <i>Université de Bordeaux</i></p>
 
   <p>
