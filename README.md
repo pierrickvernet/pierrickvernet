@@ -41,11 +41,11 @@
 
 | DOMAINE | TECHNOLOGIES & MÉTHODES |
 |---|---|
-| **Langages de programmation** | Python, R, Excel / VBA, SQL |
+| **Langages de programmation** | Python, R, VBA, SQL |
 | **Data Science & ML** | `scikit-learn`, `pandas`, `numpy`, Régression (Lasso/Ridge), Classification, Clustering (K-Means), ACP |
 | **Économétrie & Séries Temporelles** | `statsmodels`, ARMA, MCE, Volatilité (ARCH/GARCH), Tests de racine unitaire (DF, ADF, ZA, LS) |
 | **Finance Quantitative** | MEDAF/CAPM, Certification AMF,  Black-Scholes, Calcul stochastique |
 | **Dataviz & Business Intelligence** | Power BI, R Shiny, Plotly, Dashboards HTML |
-| **Outils & Environnements** | Jupyter Lab, SPyder, RStudio, Power BI, LaTeX |
+| **Outils & Environnements** | Jupyter Lab, Spyder, RStudio, Excel avancé, Power BI, LaTeX |
 
 ---
