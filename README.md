@@ -37,15 +37,15 @@
 
 ---
 
-## Compétences Techniques
+### Compétences Techniques
 
-### Programmation & Environnements
-* **Langages :** Python, R, Excel VBA, SQL.
-* **Visualisation :** Power BI, Rapports et Dashboards interactifs (R, HTML).
-
-### Modélisation & Statistiques
-* **Machine Learning :** Régression (OLS, Lasso, Ridge, KNN), Classification (Logistique, Naïve Bayes), Clustering & Réduction de dimension (K-means, ACP).
-* **Économétrie & Séries Temporelles :** Modèles ARMA, MCE, Modélisation de la volatilité (ARCH/GARCH), Tests de racine unitaire (ADF, ZA).
-* **Finance Quantitative :** Calcul stochastique, Pricing d'options (Black-Scholes), MEDAF/CAPM, Certification AMF.
+| DOMAINE | TECHNOLOGIES & MÉTHODES |
+|---|---|
+| **Langages de programmation** | Python, R, Excel / VBA, SQL |
+| **Data Science & ML** | `scikit-learn`, `pandas`, `numpy`, Régression (Lasso/Ridge), Classification, Clustering (K-Means), ACP |
+| **Économétrie & Séries Temporelles** | `statsmodels`, ARMA, MCE, Volatilité (ARCH/GARCH), Tests de racine unitaire (DF, ADF, ZA, LS) |
+| **Finance Quantitative** | MEDAF/CAPM, Certification AMF,  Black-Scholes, Calcul stochastique |
+| **Dataviz & Business Intelligence** | Power BI, R Shiny, Plotly, Dashboards HTML |
+| **Outils & Environnements** | Jupyter Lab, SPyder, RStudio, Power BI, LaTeX |
 
 ---
