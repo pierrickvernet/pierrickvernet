@@ -20,12 +20,6 @@
 
 ---
 
-### À propos
-
-> Passionné par la modélisation statistique et l'économétrie, je transforme les données complexes en leviers décisionnels objectifs et exploitables.
-
----
-
 ### Recherche de Stage
 
 | PARAMÈTRE | DÉTAILS |
