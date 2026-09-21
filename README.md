@@ -22,7 +22,7 @@
 
 ### Recherche de Stage
 
-| PARAMÈTRE | DÉTAILS |
+|  | DÉTAILS |
 |---|---|
 | **Objectif** | **Stage de fin d'études** (6 mois) |
 | **Domaines** | Data Science appliquée (Finance, Économie, Sciences Sociales, Décisionnel) & Finance Quantitative |
@@ -33,7 +33,7 @@
 
 ### Compétences Techniques
 
-| DOMAINE | TECHNOLOGIES & MÉTHODES |
+|  | TECHNOLOGIES & MÉTHODES |
 |---|---|
 | **Langages de programmation** | Python, R, VBA, SQL |
 | **Data Science & ML** | `scikit-learn`, `pandas`, `numpy`, Régression (Lasso/Ridge), Classification, Clustering (K-Means), ACP |
